@@ -1,0 +1,12 @@
+# ignore build directory
+build/
+
+# ignore gb rom
+*.gb
+
+# ignore object files
+*.o
+
+# ignore command script files
+*.bat
+*.sh
