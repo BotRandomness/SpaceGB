@@ -1,0 +1,4 @@
+//Use your favorite build system to assemble using RGBDS, the commands are below
+rgbasm src/main.asm -i src/ -o build/main.o
+rgblink build/main.o -o build/main.gb
+rgbfix -v -p 0xFF build/main.gb
