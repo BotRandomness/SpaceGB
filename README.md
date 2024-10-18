@@ -25,7 +25,7 @@
 ## Getting Started
 Want to use it, or mess around, or just to see how it works? Here is how you get started!
 ### Download
-1. Download `space.gb` from [here](https://github.com/BotRandomness), or on the releases page.
+1. Download `space.gb` from [here](https://github.com/BotRandomness/SpaceGB/releases), or on the releases page.
 2. Have any Gameboy emulator (Emulicious, BGB, mGBA, etc.), or even real hardware, on a real Gameboy!
 3. You are ready to go!
 ### Controls
